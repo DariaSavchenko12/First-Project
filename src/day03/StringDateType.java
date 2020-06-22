@@ -27,6 +27,5 @@ public class StringDateType {
         System.out.println("  I am not married : "  + isMarried   ) ;
         System.out.println("  i have " + childrenCount  + "  kids "  ) ;
 
-
     }
 }
